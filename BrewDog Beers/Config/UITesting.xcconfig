@@ -1,0 +1,13 @@
+//
+//  UITesting.xcconfig
+//  BrewDog Beers
+//
+//  Created by Sergio Fresneda on 1/20/20.
+//  Copyright © 2020 Sergio Fresneda. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Default.xcconfig"
+BUNDLE_IDENTIFIER = com.fresneda.BrewDog-Beers
+APP_NAME = BrewDog Beers[UITest]
